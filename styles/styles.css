@@ -1,0 +1,7 @@
+
+.menu-top li {
+    margin-left: 24px;
+}
+.menu-top li:hover {
+    font-weight: bold;
+}
