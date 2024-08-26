@@ -5,3 +5,7 @@
 .menu-top li:hover {
     font-weight: bold;
 }
+
+.discuss {
+    background-size: cover;
+}
